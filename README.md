@@ -4,3 +4,4 @@ This Repo contains all projects for the course Privacy and Security in Online So
 ## Parler Analysis
 1. [Parler Analysis](ParlerAnalysis/ParlerAnalysis.md)
 2. [Twitter Analysis](TwitterAnalysis/TwitterAnalysis.md)
+3. [Midsem Project](MidsemProject/MidsemProject.md)
